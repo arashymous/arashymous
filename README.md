@@ -1,7 +1,7 @@
 ## Hi There 👋, I'm Arash
 
 
-<img src="https://github.com/aye007/aye007/blob/main/arash.png?raw=true" alt="Arash's Picture" width="264" height="auto" />  <img src="https://github.com/aye007/aye007/blob/main/about.gif?raw=true" alt="About Me GIF" width="550" height="auto" /> 
+<img src="https://github.com/arashymous/arashymous/blob/main/arash.png?raw=true" alt="Arash's Picture" width="264" height="auto" />  <img src="https://github.com/arashymous/arashymous/blob/main/about.gif?raw=true" alt="About Me GIF" width="550" height="auto" /> 
 
 <!-- Skills Section -->
 <div align="left" style="margin-top: 150px;">
@@ -18,13 +18,13 @@
 <br>
 
 ## My Stats
-![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aye007&show_icons=true&theme=chartreuse-dark)
+![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashymous&show_icons=true&theme=chartreuse-dark)
 
 
 <br>
 
 ## My Trophies
-![Arash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aye007&theme=gruvbox)
+![Arash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arashymous&theme=gruvbox)
 
 <br>
 
@@ -34,4 +34,4 @@
 
 <br>
 
- ![Snake animation](https://github.com/aye007/aye007/blob/output/github-contribution-grid-snake-dark.svg)
+ ![Snake animation](https://github.com/arashymous/arashymous/blob/output/github-contribution-grid-snake-dark.svg)
