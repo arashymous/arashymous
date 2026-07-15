@@ -1,37 +1,40 @@
-## Hi There 👋, I'm Arash
+# Hi, I'm Arash 👋
 
+**Full-Stack PHP Developer** · Vienna, Austria · 10 years of experience
 
-<img src="https://github.com/arashymous/arashymous/blob/main/arash.png?raw=true" alt="Arash's Picture" width="264" height="auto" />  <img src="https://github.com/arashymous/arashymous/blob/main/about.gif?raw=true" alt="About Me GIF" width="550" height="auto" /> 
+I build and maintain web platforms with **TYPO3, WordPress/WooCommerce, Magento, Symfony, Laravel and React** — from custom extensions and e-commerce integrations to modern frontend work. Currently at AG Media GmbH.
 
-<!-- Skills Section -->
-<div align="left" style="margin-top: 150px;">
-  <p>
-    These are my technical skills. I enjoy working with a wide range of technologies, 
-    from frontend to backend development, and UI/UX design.
-  </p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,angular,vue,flutter,nodejs,laravel,wordpress,sass,jquery,bootstrap,webpack,vite,symfony,kubernetes,docker,debian,github,ai,ps,xd,phpstorm,postman,ai" 
-       alt="My Skills" />
-</a>
-</div>
+<img src="https://github.com/arashymous/arashymous/blob/main/arash.png?raw=true" alt="Arash" width="264" /> <img src="https://github.com/arashymous/arashymous/blob/main/about.gif?raw=true" alt="About me" width="550" />
 
-<br>
+## 🛠 Tech Stack
 
-## My Stats
-![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashymous&show_icons=true&theme=chartreuse-dark)
+**Backend**
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs,mysql,docker,debian" alt="Backend skills" /></a>
 
-<br>
+**CMS & E-Commerce**
 
-## My Trophies
-![Arash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arashymous&theme=gruvbox)
+![TYPO3](https://img.shields.io/badge/TYPO3-FF8700?style=for-the-badge&logo=typo3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 
-<br>
+**Frontend**
 
-## Support Me
-<a href="https://buymeacoffee.com/arashyazdani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,sass,jquery,bootstrap,webpack,vite" alt="Frontend skills" /></a>
 
+**Tools & Design**
 
-<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,phpstorm,postman,ps,xd" alt="Tools" /></a>
 
- ![Snake animation](https://github.com/arashymous/arashymous/blob/output/github-contribution-grid-snake-dark.svg)
+## 📊 My Stats
+
+<!-- Replace YOUR-INSTANCE with your own Vercel deployment URL, e.g. github-readme-stats-arash.vercel.app -->
+![Arash's GitHub stats](https://YOUR-INSTANCE.vercel.app/api?username=arashymous&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![Top Languages](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=arashymous&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+![Snake animation](https://github.com/arashymous/arashymous/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+
+## ☕ Support Me
+
+<a href="https://buymeacoffee.com/arashyazdani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174"></a>
