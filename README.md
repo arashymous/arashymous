@@ -1,16 +1,24 @@
+<div align="center">
+
 # Hi, I'm Arash 👋
 
-**Full-Stack PHP Developer** · Vienna, Austria · 10 years of experience
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+PHP+Developer;TYPO3+%7C+WordPress+%7C+Magento+Expert;Symfony+%26+Laravel+Backend;React+Frontend+%7C+AI-Assisted+Development;10+Years+Building+for+the+Web)](https://git.io/typing-svg)
 
-I build and maintain web platforms with **TYPO3, WordPress/WooCommerce, Magento, Symfony, Laravel and React** — from custom extensions and e-commerce integrations to modern frontend work. Currently at AG Media GmbH.
+![Profile Views](https://komarev.com/ghpvc/?username=arashymous&color=36bcf7&style=flat-square)
+
+</div>
+
+**Full-Stack PHP Developer** · Vienna, Austria 🇦🇹 · 10 years of experience
+
+I build and maintain web platforms with **TYPO3, WordPress/WooCommerce, Magento, Symfony, Laravel and React** — from custom extensions and e-commerce integrations to modern frontends and AI-assisted workflows.
 
 <img src="https://github.com/arashymous/arashymous/blob/main/arash.png?raw=true" alt="Arash" width="264" /> <img src="https://github.com/arashymous/arashymous/blob/main/about.gif?raw=true" alt="About me" width="550" />
 
 ## 🛠 Tech Stack
 
-**Backend**
+**Backend & DevOps**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs,mysql,docker,debian" alt="Backend skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs,mysql,docker,kubernetes,debian,linux" alt="Backend" /></a>
 
 **CMS & E-Commerce**
 
@@ -21,19 +29,34 @@ I build and maintain web platforms with **TYPO3, WordPress/WooCommerce, Magento,
 
 **Frontend**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,sass,jquery,bootstrap,webpack,vite" alt="Frontend skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,sass,bootstrap,webpack,vite" alt="Frontend" /></a>
 
-**Tools & Design**
+**Design & Creative**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,phpstorm,postman,ps,xd" alt="Tools" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps,ai,xd,figma" alt="Design" /></a>
+
+**AI-Assisted Development**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-Stable_Diffusion-8A2BE2?style=for-the-badge)
+
+**Tools**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,phpstorm,vscode,postman" alt="Tools" /></a>
 
 ## 📊 My Stats
 
-<!-- Replace YOUR-INSTANCE with your own Vercel deployment URL, e.g. github-readme-stats-arash.vercel.app -->
-![Arash's GitHub stats](https://YOUR-INSTANCE.vercel.app/api?username=arashymous&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
-![Top Languages](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=arashymous&layout=compact&theme=chartreuse-dark&hide_border=true)
+<div align="center">
 
-![Snake animation](https://github.com/arashymous/arashymous/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
+![Arash's GitHub stats](https://github-stats-extended.vercel.app/api?username=arashymous&show_icons=true&theme=chartreuse-dark&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=arashymous&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arashymous&theme=chartreuse-dark&hide_border=true)
+
+</div>
 
 ## ☕ Support Me
 
