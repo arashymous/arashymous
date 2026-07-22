@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 # Hi, I'm Arash 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+PHP+Developer;TYPO3+%7C+WordPress+%7C+Magento+Expert;Symfony+%26+Laravel+Backend;React+Frontend+%7C+AI-Assisted+Development;10+Years+Building+for+the+Web)](https://git.io/typing-svg)
