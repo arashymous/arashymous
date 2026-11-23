@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=arashymous&color=36bcf7&style=flat-square)
 
 </div>
-
+ 
 **Full-Stack PHP Developer** · Vienna, Austria 🇦🇹 · 10 years of experience
 
 I build and maintain web platforms with **TYPO3, WordPress/WooCommerce, Magento, Symfony, Laravel and React** — from custom extensions and e-commerce integrations to modern frontends and AI-assisted workflows.
